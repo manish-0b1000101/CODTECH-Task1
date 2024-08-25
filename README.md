@@ -1,9 +1,9 @@
-**Name:**                     \
-**Company:**                  \
-**ID:**                       \
-**Domain:**                   \
-**Duration:**                 \
-**Mentor:**  
+**Name:** anoop singh rawat     \
+**Company:** codtechIT solution \
+**ID:** CT6WDS1256       \
+**Domain:** web development      \
+**Duration:**  10july to 25 august    \
+**Mentor:** muzammil 
 
 ---
 
