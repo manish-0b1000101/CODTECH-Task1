@@ -1,6 +1,13 @@
-# CODTECH-Task1
+**Name:**                     \
+**Company:**                  \
+**ID:**                       \
+**Domain:**                   \
+**Duration:**                 \
+**Mentor:**  
 
-Project features:
+---
+
+### Project features:
 - Create, mark/unmark as completed, Delete task
 - Easy to use
 - Local Storage Supported
